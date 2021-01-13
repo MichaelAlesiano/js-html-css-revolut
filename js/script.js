@@ -4,7 +4,6 @@ $(document).ready(function(){
     $(this).children('.dropdown').slideToggle();
 
     $(this).find('i').toggleClass('active');
-
   });
 
 });
